@@ -1,0 +1,25 @@
+@charset "utf-8";
+/***********************************
+ *
+ *  HANBITGARAM Widget
+ *  2020. 06. 23. HanbitGaram(https://hanb.jp/ | https://github.com/hanbitgaram)
+ *
+ *  CHANGE LOG
+ *  2020. 06. 23. First production
+ *  2022. 06. 24. Declaration of free source code(ソースコード無料化宣言)
+ *
+ ***********************************/
+#header{background:#333; color:#fff; padding:20px; font-size:1.3em; font-weight:700;}
+#contents{padding:20px;}
+#footer{font-size:1.3em; margin-top:20px; margin-bottom:20px; text-align:center; color:#999; letter-spacing:-1px;}
+
+#install_title{font-size:20px; text-align:center; margin-bottom:10px;}
+#install_description{font-size:15px; text-align:center; color:#777;}
+#install_description a{color:inherit;}
+
+a.btn_submit, button.btn_submit, input.btn_submit{border:0px; background:#333; color:#fff !important; border-radius:0px; display:inline-block; padding:10px 20px; font-size:13px;}
+textarea.fw_contents_textarea{display:block; width:100%; min-height:250px; min-height:70vh; padding:10px;}
+.frm_input_full{width:100%;}
+#hanbitgaram_widget_input_title{font-size:20px; margin-bottom:10px;}
+input.fw_contents_inputs{display:block; width:100%; height:40px;}
+.txt_center{text-align:center;}

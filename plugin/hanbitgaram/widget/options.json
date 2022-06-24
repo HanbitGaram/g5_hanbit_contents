@@ -1,0 +1,51 @@
+{
+ "textarea":{
+   "html": false,
+   "autobr": false,
+   "editor": false,
+   "type": "textarea",
+   "name": "다중입력박스(NON HTML)"
+ },
+  "textarea2": {
+    "html": false,
+    "autobr": true,
+    "editor": false,
+    "type": "textarea",
+    "name": "다중입력박스(NO HTML, AUTO BR)"
+  },
+  "textarea3": {
+    "html": true,
+    "autobr": false,
+    "editor": false,
+    "type": "textarea",
+    "name": "다중입력박스(HTML)"
+  },
+  "editor": {
+    "html": true,
+    "autobr": false,
+    "editor": true,
+    "type": "editor",
+    "name": "DHTML 에디터 (HTML)"
+  },
+  "text": {
+    "html": false,
+    "autobr": false,
+    "editor": false,
+    "type": "text",
+    "name": "텍스트 박스(NON HTML)"
+  },
+  "text2": {
+    "html": true,
+    "autobr": false,
+    "editor": false,
+    "type": "text",
+    "name": "텍스트 박스(HTML)"
+  },
+  "number": {
+    "html": false,
+    "autobr": false,
+    "editor": false,
+    "type": "tel",
+    "name": "숫자입력박스(NON HTML)"
+  }
+}
